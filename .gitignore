@@ -1,0 +1,6 @@
+.codespaces/
+.env
+.env-secrets
+.terraform/
+*.tfstate
+*.tfstate.backup
